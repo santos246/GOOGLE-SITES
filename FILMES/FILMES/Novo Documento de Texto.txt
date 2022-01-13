@@ -13,7 +13,7 @@ LINK
 LINK
 " width="470" height="255"><embed src="
 LINK
-" width="470" height="255"></object></video><a href="
+" width="470" height="255"></object></video></br><a href="
 LINKDOWNLOADS
 " download="teste_visualdicas">
 <button class="button"><h2>DOWNLOADS</h2></button></a>
